@@ -23,7 +23,7 @@ nsubjects = 15
 # In[9]:
 
 
-mainpath = "Dataset" # directory path
+mainpath = "/Downloads/Dataset" # directory path
 
 
 # In[10]:
